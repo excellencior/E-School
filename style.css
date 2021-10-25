@@ -1,0 +1,52 @@
+/* div {
+    border: 5px solid green;
+} */
+.navbar {
+    margin-bottom: 80px;
+}
+.container {
+    margin-bottom: 50px;
+}
+.upper-section {
+    background-color: #F0FFF0;
+}
+.intro-talk {
+    font-size: 3em;
+    font-weight: bolder;
+}
+.intro-photo {
+    width: 100%;
+}
+.highlight {
+    color: #21B573;
+}
+.sign-in-button {
+    background-color: #21B573;
+    border-radius: 40px;
+    width: 7em;
+    text-align: center;
+    cursor: pointer;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    height: 350px;
+    background-color: #F8FFFB;
+}
+.card:hover {
+    box-shadow: 2px 0px 8px grey;
+    background-color: white;
+}
+.card img {
+    /* border: 5px solid green; */
+    padding: 20%;
+}
+.card h4, p {
+    text-align: center;
+}
+.online-courses {
+    font-size: 2em;
+    font-weight: bolder;
+    color: darkblue;
+    text-align: center;
+}
